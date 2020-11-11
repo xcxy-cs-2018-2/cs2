@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello Cacu!\n");
+    printf("Hello embed!\n");
     return 0;
 }
